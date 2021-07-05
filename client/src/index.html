@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible"
+            content="IE=edge">
+      <meta name="viewport"
+            content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet"
+            href="tailwind.css">
+      <link rel="stylesheet"
+            href="styles.css">
+      <title>News Application</title>
+</head>
+
+<body>
+      <div class="w-9/12 h-screen mx-auto">
+            <section class="search-rapper">
+                  <div class="logo-and-wordmark flex justify-center items-center">
+                        <div class="logo"></div>
+                        <div class="wordmark text-3xl font-normal text-gray-600 pl-3 uppercase">
+                              Condé Nast
+                        </div>
+                  </div>
+                  <div class="search-inner-wrapper text-center mt-10">
+                        <input id="searchInput"
+                               type="search"
+                               class="w-3/4 p-3 border text-gray-800 border-gray-500 focus:border-blue-900 rounded-md outline-none"
+                               placeholder="Enter search term here and press [Enter]...">
+                  </div>
+            </section>
+            <section id="newsWrapper"
+                     class="mt-10 p-10">
+                  <!-- Dynamic DOM content goes here -->
+            </section>
+      </div>
+      </div>
+      <script src="./index.js"></script>
+</body>
+
+</html>
