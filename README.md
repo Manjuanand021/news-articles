@@ -21,7 +21,7 @@ This is an example of how you may give instructions on setting up your project l
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/Manjuanand021/weather-js.git
+    git clone https://github.com/Manjuanand021/news-articles.git
     ```
 2. Install NPM packages
 
