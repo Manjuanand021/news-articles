@@ -60,8 +60,12 @@ With search term and loading spinner
 <img width="1285" alt="Screenshot 2021-07-05 at 1 55 24 PM" src="https://user-images.githubusercontent.com/22066337/124440881-bcf6f200-dd98-11eb-9322-40b1df32b3ff.png">
 
 
+
+
 Search results
 <img width="1280" alt="Screenshot 2021-07-05 at 1 54 42 PM" src="https://user-images.githubusercontent.com/22066337/124440931-cbdda480-dd98-11eb-9dd8-bc9359f8df86.png">
+
+
 
 
 No results found
