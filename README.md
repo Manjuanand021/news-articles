@@ -53,7 +53,8 @@ This is an example of how you may give instructions on setting up your project l
 
 ### Screenshots
 Landing screen
-<img width="1287" alt="Screenshot 2021-07-05 at 1 55 02 PM" src="https://user-images.githubusercontent.com/22066337/124440857-b6687a80-dd98-11eb-91e6-b43cf90735d4.png">
+<img width="1285" alt="Screenshot 2021-07-05 at 1 55 24 PM" src="https://user-images.githubusercontent.com/22066337/124441084-f596cb80-dd98-11eb-8a45-e858836dad2f.png">
+
 
 
 With search term and loading spinner
