@@ -52,10 +52,17 @@ This is an example of how you may give instructions on setting up your project l
 ```
 
 ### Screenshots
-
-![Screenshot 2021-07-05 at 11 49 07 AM](https://user-images.githubusercontent.com/22066337/124426409-a2684d00-dd87-11eb-89c8-c131589066c5.png)
-![Screenshot 2021-07-05 at 11 49 14 AM](https://user-images.githubusercontent.com/22066337/124426429-a85e2e00-dd87-11eb-8904-b8a46f479869.png)
-![Screenshot 2021-07-05 at 11 51 40 AM](https://user-images.githubusercontent.com/22066337/124426456-b01dd280-dd87-11eb-9852-065b5e2d1bb5.png)
-![Screenshot 2021-07-05 at 11 52 09 AM](https://user-images.githubusercontent.com/22066337/124426476-b613b380-dd87-11eb-8329-4ab980f598d2.png)
+```sh
+    ![Screenshot 2021-07-05 at 11 49 07 AM](https://user-images.githubusercontent.com/22066337/124426409-a2684d00-dd87-11eb-89c8-c131589066c5.png)
+```
+```sh
+    ![Screenshot 2021-07-05 at 11 49 14 AM](https://user-images.githubusercontent.com/22066337/124426429-a85e2e00-dd87-11eb-8904-b8a46f479869.png)
+```
+```sh
+    ![Screenshot 2021-07-05 at 11 51 40 AM](https://user-images.githubusercontent.com/22066337/124426456-b01dd280-dd87-11eb-9852-065b5e2d1bb5.png)
+```
+```sh
+    ![Screenshot 2021-07-05 at 11 52 09 AM](https://user-images.githubusercontent.com/22066337/124426476-b613b380-dd87-11eb-8329-4ab980f598d2.png)
+```
 
 
