@@ -53,15 +53,19 @@ This is an example of how you may give instructions on setting up your project l
 
 ### Screenshots
 Landing screen
-![Screenshot 2021-07-05 at 11 49 07 AM](https://user-images.githubusercontent.com/22066337/124426409-a2684d00-dd87-11eb-89c8-c131589066c5.png)
+<img width="1287" alt="Screenshot 2021-07-05 at 1 55 02 PM" src="https://user-images.githubusercontent.com/22066337/124440857-b6687a80-dd98-11eb-91e6-b43cf90735d4.png">
+
 
 With search term and loading spinner
-![Screenshot 2021-07-05 at 11 49 14 AM](https://user-images.githubusercontent.com/22066337/124426429-a85e2e00-dd87-11eb-8904-b8a46f479869.png)
+<img width="1285" alt="Screenshot 2021-07-05 at 1 55 24 PM" src="https://user-images.githubusercontent.com/22066337/124440881-bcf6f200-dd98-11eb-9322-40b1df32b3ff.png">
+
 
 Search results
-![Screenshot 2021-07-05 at 11 51 40 AM](https://user-images.githubusercontent.com/22066337/124426456-b01dd280-dd87-11eb-9852-065b5e2d1bb5.png)
+<img width="1280" alt="Screenshot 2021-07-05 at 1 54 42 PM" src="https://user-images.githubusercontent.com/22066337/124440931-cbdda480-dd98-11eb-9dd8-bc9359f8df86.png">
+
 
 No results found
-![Screenshot 2021-07-05 at 11 52 09 AM](https://user-images.githubusercontent.com/22066337/124426476-b613b380-dd87-11eb-8329-4ab980f598d2.png)
+<img width="1285" alt="Screenshot 2021-07-05 at 1 56 45 PM" src="https://user-images.githubusercontent.com/22066337/124441010-dc8e1a80-dd98-11eb-958c-162128e401b7.png">
+
 
 
