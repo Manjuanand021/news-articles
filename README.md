@@ -63,6 +63,8 @@ With search term and loading spinner
 
 
 Search results
+<img width="1288" alt="Screenshot 2021-07-05 at 1 59 07 PM" src="https://user-images.githubusercontent.com/22066337/124441355-38f13a00-dd99-11eb-8da7-6283d7f05fe5.png">
+
 <img width="1280" alt="Screenshot 2021-07-05 at 1 54 42 PM" src="https://user-images.githubusercontent.com/22066337/124440931-cbdda480-dd98-11eb-9dd8-bc9359f8df86.png">
 
 
